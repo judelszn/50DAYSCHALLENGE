@@ -37,7 +37,7 @@ Connect with him on:
 - Book: [50 of Data Analysis with Python]( 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners (gumroad.com))
 
 ## Connect with Me
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Email: your.email@example.com
+- Twitter: [@judelszn](https://twitter.com/judelszn )
+- Email: judelszn@gmail.com
 
 Happy coding! 🚀
