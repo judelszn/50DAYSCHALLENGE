@@ -28,7 +28,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
  Clone this repository to your local machine:
    ```bash
    git clone https://github.com/judelszn/50DaysChallenge
-   cd '50DaysChallenge'
+   cd 50DaysChallenge
    ```
 ## Acknowledgments
 This challenge is inspired by my passion for learning and sharing knowledge in the data science. Special thanks to Benjamin Bennett Alexander for gifting me this powerful tool for data analysis and machine learning. 
