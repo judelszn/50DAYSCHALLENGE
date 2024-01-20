@@ -13,7 +13,7 @@ Welcome to my repo of the 50 of Data Analysis with Python by Benjamin Bennett Al
 Data analysis and data science are integral parts of the modern world, and proficiency in using Python libraries is crucial for success in these fields. This challenge is designed to provide you with hands-on experience, allowing you to apply your knowledge and develop practical skills in data manipulation, visualization, and machine learning.
 
 ## Tools
-Before starting this challenge, make sure you have the following installed on your system:
+The following installed on my system and used:
 
 - Python (3.11 or higher)
 - VS Code
@@ -27,14 +27,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## How to Use This Repository
  Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/data-analysis-challenge.git
-   cd data-analysis-challenge
+   git clone https://github.com/judelszn/50DaysChallenge
+   cd '50DaysChallenge'
    ```
 ## Acknowledgments
 This challenge is inspired by my passion for learning and sharing knowledge in the data science. Special thanks to Benjamin Bennett Alexander for gifting me this powerful tool for data analysis and machine learning. 
 Connect with him on:
 - Twitter: [@RealBenjizo](https://twitter.com/RealBenjizo )
-- Book: [50 of Data Analysis with Python]( 50 Days of Data Analysis with Python: The Ultimate Challenge Book for Beginners (gumroad.com))
+- Book: [50 of Data Analysis with Python](https://t.co/8kEfaOyUF6)
 
 ## Connect with Me
 - Twitter: [@judelszn](https://twitter.com/judelszn )
