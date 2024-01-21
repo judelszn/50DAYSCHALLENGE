@@ -13,7 +13,7 @@ Welcome to my repo of the 50 of Data Analysis with Python by Benjamin Bennett Al
 Data analysis and data science are integral parts of the modern world, and proficiency in using Python libraries is crucial for success in these fields. This challenge is designed to provide you with hands-on experience, allowing you to apply your knowledge and develop practical skills in data manipulation, visualization, and machine learning.
 
 ## Tools
-The following installed on my system and used:
+The following were installed on my system and used:
 
 - Python (3.11 or higher)
 - VS Code
